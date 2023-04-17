@@ -1,0 +1,123 @@
+*{
+	margin:0;
+	padding:0;
+}
+.main_container{
+	height:100vh;
+	width:auto;
+	
+}
+.sub_container{
+	border:2px solid gray;
+	width:500px;
+	height:700px;
+	margin:30px auto;
+	border-radius:10px;
+}
+
+
+.alert_primary{
+	border:2px solid #aac8f0;
+	width:80%;
+	height:30px;
+	margin:30px auto;
+	background-color:#2e61ae;
+	border-radius:10px;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	color:#aac8f0;
+	
+}
+.alert_secondary{
+	border:2px solid #616673;
+	width:80%;
+	height:30px;
+	margin:30px auto;
+	background-color:#a2a8ae;
+	border-radius:10px;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	color:#616673;
+	
+}
+
+.alert_success{
+	border:2px solid #587c39;
+	width:80%;
+	height:30px;
+	margin:30px auto;
+	background-color:#a5d6a7;
+	border-radius:10px;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	color:#587c39;
+	
+}
+.alert_danger{
+	border:2px solid #f44336;
+	width:80%;
+	height:30px;
+	margin:30px auto;
+	background-color:#ef9a9a;
+	border-radius:10px;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	color:#f44336;
+	
+}
+.alert_warning{
+	border:2px solid #f9a825;
+	width:80%;
+	height:30px;
+	margin:30px auto;
+	background-color:#fff176;
+	border-radius:10px;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	color:#f9a825;
+	
+}
+.alert_info{
+	border:2px solid #03a9f4;
+	width:80%;
+	height:30px;
+	margin:30px auto;
+	background-color:#b3e5fc;
+	border-radius:10px;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	color:#03a9f4;
+	
+}
+.alert_light{
+	border:2px solid #AFB0B3;
+	width:80%;
+	height:30px;
+	margin:30px auto;
+	background-color:#FEFEFE;
+	border-radius:10px;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	color:#AFB0B3;
+	
+}
+.alert_dark{
+	border:2px solid #a8afb8;
+	width:80%;
+	height:30px;
+	margin:30px auto;
+	background-color:#707680;
+	border-radius:10px;
+	padding:10px;
+	display:flex;
+	align-items:center;
+	color:#a8afb8;
+	
+}
